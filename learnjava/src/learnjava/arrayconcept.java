@@ -6,7 +6,7 @@ public class arrayconcept {
 	
 	{
 		
-		//1. int array
+		//1. int arrayy
 		
 		// One dimensional array
 		
